@@ -1,7 +1,7 @@
 ---
 layout: member
 category: Research Scientist
-title: Zeeshan Haider Jafari
+title: Zeshan Haider Jafari
 image: researcher.png
 role: Lab Director
 permalink: 'team/researcher-name'
