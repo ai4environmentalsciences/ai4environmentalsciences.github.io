@@ -1,7 +1,7 @@
 ---
 layout: member
-category: staff
-title: Researcher Name
+category: Research Scientist
+title: Ather Abbas
 image: researcher.png
 role: Lab Director
 permalink: 'team/researcher-name'
