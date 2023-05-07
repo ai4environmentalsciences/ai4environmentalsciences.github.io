@@ -8,7 +8,7 @@ permalink: 'team/researcher-name'
 social:
     twitter: https://twitter.com/
     linkedin: https://www.linkedin.com/
-    google-scholar: https://scholar.google.fr/
+    google-scholar: https://scholar.google.com/citations?hl=en&user=r-XQBFMAAAAJ
     github: https://github.com/
     website:
     orcid: https://orcid.org/
