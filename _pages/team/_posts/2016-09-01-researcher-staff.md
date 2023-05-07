@@ -1,6 +1,6 @@
 ---
 layout: member
-category: Research Scientist
+category: staff
 title: Ather Abbas
 image: researcher.png
 role: Lab Director
