@@ -1,7 +1,7 @@
 ---
 layout: member
 category: staff
-title: Ather Abbas
+title: Zeeshan Haider Jaffari
 image: researcher.png
 role: Research Scientist
 permalink: 'team/researcher-name'
