@@ -8,13 +8,13 @@ permalink: 'team/researcher-name'
 social:
     twitter: https://twitter.com/
     linkedin: https://www.linkedin.com/
-    google-scholar: https://scholar.google.fr/
-    github: https://github.com/
-    website:
+    google-scholar: https://scholar.google.com/citations?hl=en&user=DugZ6eEAAAAJ
+    github: https://github.com/AtrCheema
+    website: https://atrcheema.github.io/
     orcid: https://orcid.org/
-    research-gate: https://www.researchgate.net/
+    research-gate: https://www.researchgate.net/profile/Ather-Abbas
 education:
  - Education
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+ I work at the intersection of water sciences and machine learning. I am interested in application of data-driven approaches to solve problems related to water resources with special focus on surface water quality, catchment dynamics and water treatment. I did my Bachelor from Punjab University, Pakistan in Applied Geology. After that I moved to Germany and did MS in Hydrogeology and Environmental Geosciences from Goettingen university. Then I cam to Korea and completed my PhD from Ulsan National Institute of Science and Technology in Environmental Engineering.
