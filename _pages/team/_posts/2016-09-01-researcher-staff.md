@@ -3,7 +3,7 @@ layout: member
 category: staff
 title: Ather Abbas
 image: researcher.png
-role: Lab Director
+role: Research Scientist
 permalink: 'team/researcher-name'
 social:
     twitter: https://twitter.com/
